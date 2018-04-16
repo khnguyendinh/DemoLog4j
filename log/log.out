@@ -1,0 +1,36 @@
+2018-04-16 06:53:39 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:53:39 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:53:39 INFO  Student:27 - init student
+2018-04-16 06:54:20 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:54:20 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:54:20 INFO  Student:27 - init student
+2018-04-16 06:55:22 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:55:22 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:55:22 INFO  Student:27 - init student
+2018-04-16 06:55:34 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:55:34 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:55:34 INFO  Student:27 - init student
+2018-04-16 06:55:45 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:55:45 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:55:45 INFO  Student:27 - init student
+2018-04-16 06:55:59 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:55:59 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:55:59 INFO  Student:27 - init student
+2018-04-16 06:56:32 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:56:32 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:56:32 INFO  Student:27 - init student
+2018-04-16 06:57:03 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:57:03 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:57:03 INFO  Student:27 - init student
+2018-04-16 06:57:39 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:57:39 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:57:39 INFO  Student:27 - init student
+2018-04-16 06:57:50 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:57:50 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:57:50 INFO  Student:27 - init student
+2018-04-16 06:57:57 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:57:57 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:57:57 INFO  Student:27 - init student
+2018-04-16 06:58:29 DEBUG Main:10 - Hello this is a debug message
+2018-04-16 06:58:29 INFO  Main:11 - Hello this is an info message
+2018-04-16 06:58:29 INFO  Student:27 - init student
